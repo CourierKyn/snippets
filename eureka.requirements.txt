@@ -1,0 +1,6 @@
+pandas
+readability-lxml
+scrapy-selenium
+beautifulsoup4
+scrapy-splash
+scrapyd
